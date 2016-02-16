@@ -1,5 +1,5 @@
-# timewallet_ui_v1.0_kr
-타임월렛 한국 front-end 저장소
+# tw
+tw front-end 저장소
 
 # 사용기술
 nodejs, gulp, sass, React.js, compass, font awesome, etc....
@@ -63,6 +63,8 @@ $ gem install compass  // compass 설치, 역시 설치 안하면 gulp 작동 �
 <pre>
 $ gulp      // let's work!
 </pre>
+
+# IIS 및 닷넷 프레임워크를 설치해야 해당 내용을 확인 할 수 있다.(닷넷 API포함)
 
 # 기타
 본 프로젝트는 React.js를 사용한다. 그래서 라우터 관리까지 front-end에서 직접관리 한다.
